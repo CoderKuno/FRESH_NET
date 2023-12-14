@@ -1,0 +1,12 @@
+<vector android:height="40dp" android:tint="#00FF00"
+    android:viewportHeight="24" android:viewportWidth="24"
+    android:width="32dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path
+        android:fillColor="@android:color/white"
+        android:fillType="evenOdd"
+        android:pathData="M4,11h16v2h-16z">
+
+        <!-- Add round element for rounded corners -->
+        <corners android:radius="20dp" />
+    </path>
+</vector>
